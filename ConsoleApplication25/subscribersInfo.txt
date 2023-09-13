@@ -1,0 +1,24 @@
+First Name: Oleg;
+Last Name: Ivanovich;
+Middle Name: Leshko;
+Home Phone: 4221;
+Work Phone: 1224;
+
+First Name: Ivan;
+Last Name: Valerievich;
+Middle Name: Alexandrov;
+Home Phone: 5362623;
+Work Phone: 426236;
+
+First Name: Ksenia;
+Last Name: Ermovleeva;
+Middle Name: Viktorovna;
+Home Phone: 4512512;
+Work Phone: 526246436;
+
+First Name: Test;
+Last Name: Testov;
+Middle Name: Testovich;
+Home Phone: 123456;
+Work Phone: 654321;
+
